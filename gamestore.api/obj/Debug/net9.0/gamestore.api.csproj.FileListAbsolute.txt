@@ -26,3 +26,32 @@ d:\company workflow\gamestore\gamestore.api\obj\Debug\net9.0\refint\gamestore.ap
 d:\company workflow\gamestore\gamestore.api\obj\Debug\net9.0\gamestore.api.pdb
 d:\company workflow\gamestore\gamestore.api\obj\Debug\net9.0\gamestore.api.genruntimeconfig.cache
 d:\company workflow\gamestore\gamestore.api\obj\Debug\net9.0\ref\gamestore.api.dll
+D:\company-workflow\gamestore\gamestore.api\bin\Debug\net9.0\appsettings.Development.json
+D:\company-workflow\gamestore\gamestore.api\bin\Debug\net9.0\appsettings.json
+D:\company-workflow\gamestore\gamestore.api\bin\Debug\net9.0\gamestore.api.staticwebassets.endpoints.json
+D:\company-workflow\gamestore\gamestore.api\bin\Debug\net9.0\gamestore.api.exe
+D:\company-workflow\gamestore\gamestore.api\bin\Debug\net9.0\gamestore.api.deps.json
+D:\company-workflow\gamestore\gamestore.api\bin\Debug\net9.0\gamestore.api.runtimeconfig.json
+D:\company-workflow\gamestore\gamestore.api\bin\Debug\net9.0\gamestore.api.dll
+D:\company-workflow\gamestore\gamestore.api\bin\Debug\net9.0\gamestore.api.pdb
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\gamestore.api.GeneratedMSBuildEditorConfig.editorconfig
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\gamestore.api.AssemblyInfoInputs.cache
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\gamestore.api.AssemblyInfo.cs
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\gamestore.api.csproj.CoreCompileInputs.cache
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\gamestore.api.MvcApplicationPartsAssemblyInfo.cache
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\gamestore.api.sourcelink.json
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\scopedcss\bundle\gamestore.api.styles.css
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\staticwebassets.build.json
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\staticwebassets.development.json
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\staticwebassets\msbuild.gamestore.api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\staticwebassets\msbuild.gamestore.api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\staticwebassets\msbuild.build.gamestore.api.props
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.gamestore.api.props
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.gamestore.api.props
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\staticwebassets.pack.json
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\gamestore.api.dll
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\refint\gamestore.api.dll
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\gamestore.api.pdb
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\gamestore.api.genruntimeconfig.cache
+D:\company-workflow\gamestore\gamestore.api\obj\Debug\net9.0\ref\gamestore.api.dll
