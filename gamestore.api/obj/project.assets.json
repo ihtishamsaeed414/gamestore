@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\company workflow\\gamestore\\gamestore.api\\gamestore.api.csproj",
+      "projectUniqueName": "D:\\company-workflow\\gamestore\\gamestore.api\\gamestore.api.csproj",
       "projectName": "gamestore.api",
-      "projectPath": "D:\\company workflow\\gamestore\\gamestore.api\\gamestore.api.csproj",
+      "projectPath": "D:\\company-workflow\\gamestore\\gamestore.api\\gamestore.api.csproj",
       "packagesPath": "C:\\Users\\Almansor\\.nuget\\packages\\",
-      "outputPath": "D:\\company workflow\\gamestore\\gamestore.api\\obj\\",
+      "outputPath": "D:\\company-workflow\\gamestore\\gamestore.api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
